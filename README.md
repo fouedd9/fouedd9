@@ -6,9 +6,10 @@
 
 🔧 Things I can do :
 
-- Programming languages : HTML, CSS, JavaScript, TypeScript
-- Libraries : React, Redux
-- Languages : French (native), English (B1/B2), Japanese (some basics)
+- Front End : HTML, CSS, JavaScript, TypeScript, React
+- Back End  : NodeJS
+- Libraries : React, Redux, Material, Tailwindcss
+- Languages : Arabic (native), French (fluently), English (fluently)
 - Other skills : Sass, Jest, Recharts
 
 
