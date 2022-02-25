@@ -1,16 +1,24 @@
-### Hi there 👋
+### Nice to meet you ! 👋
 
-<!--
-**fouedd9/fouedd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🧑🏻‍🎓 I’m Foued, a freshly graduated full-stack web developer from [Digital school of Paris](https://www.digitalschool.paris/?keyword=digital%20school%20of%20paris&matchtype=p&gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF6ZeizvjniFMvT3y7snK9OMfECFgMb6jCF3Xfz6ZECEeNFbIjAoFPMaAjw1EALw_wcB) Digital school of Paris (April 2021).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔧 Things I can do :
+
+- Programming languages : HTML, CSS, JavaScript, TypeScript
+- Libraries : React, Redux
+- Languages : French (native), English (B1/B2), Japanese (some basics)
+- Other skills : Sass, Jest, Recharts
+
+
+🇫🇷 I’m based in Paris, FR
+✈️ I love to travel 
+
+
+
+ 👉 [Linkedin](https://www.linkedin.com/in/foued-saidane/)        [Twitter](https://twitter.com/saidanefoued) 
+
+
+ 📧 I would love to work together! Send me an [email](fouedsaidane2@gmail.com) to get in touch: 
+
