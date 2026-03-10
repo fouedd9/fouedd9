@@ -44,15 +44,11 @@ Full-Stack Developer passionate about building modern, scalable web applications
 
 ---
 
-# 📊 GitHub Stats
+## 🧠 Currently Building
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fouedd9&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouedd9&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 🚀 A SaaS for managing shared housing (ColocPilote)
+- 🎨 Improving UI/UX skills and modern frontend architecture
+- ⚡ Learning advanced state management with Zustand
 
 ---
 
