@@ -48,9 +48,9 @@ Full-Stack Developer passionate about building modern, scalable web applications
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saidanefoued&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fouedd9&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidanefoued&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouedd9&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
