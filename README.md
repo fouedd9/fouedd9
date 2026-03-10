@@ -1,26 +1,28 @@
-### Hey You ! 👋
-### Nice to meet you 👋
+### Hey you 👋
+### Nice to meet you!
 
+🧑🏻‍💻 I’m Foued, a full-stack JavaScript developer with a strong focus on front-end and product experience.
 
-🧑🏻‍🎓 I’m Foued, a freshly graduated full-stack web developer from [Digital school of Paris](https://www.digitalschool.paris/?keyword=digital%20school%20of%20paris&matchtype=p&gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF6ZeizvjniFMvT3y7snK9OMfECFgMb6jCF3Xfz6ZECEeNFbIjAoFPMaAjw1EALw_wcB) (April 2021).
+🎓 Graduated from [Digital School of Paris](https://www.digitalschool.paris/) (2021)
 
+⚡ Things I work with:
 
-🔧 Things I can do :
+- Frontend: React, Next.js, TypeScript, JavaScript, responsive
+- Backend: Node.js, Express
+- Tools & Libraries: React Query, Zustand, styled-components, 
+- Testing: Jest
+- Database: SQL / NoSQL
+- AI tools: ChatGPT, GitHub Copilot
 
-- Front End : HTML, CSS, JavaScript, TypeScript, React
-- Back End  : NodeJS
-- Libraries : React, Redux, Material, Tailwindcss
-- Languages : Arabic (native), French (fluently), English (fluently)
-- Other skills : Sass, Jest, Recharts
+🌍 Languages:
+- Arabic (native)
+- French (fluent)
+- English (fluent)
 
+🇫🇷 Based in France  
+✈️ I love traveling and building projects
 
-🇫🇷 I’m based in Paris, FR
-✈️ I love to travel 
+---
 
-
-
- 👉 [Linkedin](https://www.linkedin.com/in/foued-saidane/)        [Twitter](https://twitter.com/saidanefoued) 
-
-
- 📧 I would love to work together! Send me an [email](fouedsaidane2@gmail.com) to get in touch: 
-
+👉 [LinkedIn](https://www.linkedin.com/in/foued-saidane/)  
+📧 Feel free to reach out: **fouedsaidane2@gmail.com**
