@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack JavaScript Developer | React & Node.js</h3>
 
 <p align="center">
-Building modern web applications with a strong focus on user experience.
+  Building modern web applications with a strong focus on user experience.
 </p>
 
 ---
@@ -31,13 +31,12 @@ Building modern web applications with a strong focus on user experience.
 
 ### Tools & Libraries
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ### Testing & Others
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
@@ -52,11 +51,17 @@ Building modern web applications with a strong focus on user experience.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saidanefoued&show_icons=true&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=saidanefoued&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Foued's GitHub stats"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidanefoued&layout=compact&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidanefoued&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top languages"
+  />
 </p>
 
 ---
