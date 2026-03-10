@@ -48,23 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=saidanefoued&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Foued's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidanefoued&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-</p>
-
----
 
 ## 🤝 Let's connect
 
